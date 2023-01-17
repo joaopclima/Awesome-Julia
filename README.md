@@ -85,6 +85,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [Julia Economics](http://juliaeconomics.com/tutorials/) - Tutorial Series for economists learning to program in Julia.
 - [Getting started with JuliaBox](http://stanford.edu/class/ee103/slides/julia_box_slides.pdf) Get started to code Julia in the browser
 - [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) Rosetta solutions in Julia.
+- [Quantitative Economics with Julia](https://julia.quantecon.org/intro.html) A set of lectures on quantitative economic modeling in Julia. 
 - [Video Tutorials](#video-tutorials)
     - [Youtube Videos](https://www.youtube.com/user/JuliaLanguage/videos) - A list of lectures and video tutorials at youtube.
     - [Tutorial at SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A) - Great video tutorial for starters.
